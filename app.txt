@@ -4,6 +4,8 @@ int calculate (int a, intb){
     int wynik = a+b;
     return wynik;
 }
+
+
 void main()
 {
     printf("hurra działa");
